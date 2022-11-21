@@ -1,0 +1,15 @@
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/bin/Debug/net6.0/w01
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/bin/Debug/net6.0/w01.deps.json
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/bin/Debug/net6.0/w01.runtimeconfig.json
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/bin/Debug/net6.0/w01.dll
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/bin/Debug/net6.0/w01.pdb
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.csproj.AssemblyReference.cache
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.AssemblyInfoInputs.cache
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.AssemblyInfo.cs
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.csproj.CoreCompileInputs.cache
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.dll
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/refint/w01.dll
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.pdb
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/w01.genruntimeconfig.cache
+/Users/aleksandradementeva/Documents/Учеба/C шарп/Home_1/homework_1c/w01/obj/Debug/net6.0/ref/w01.dll
